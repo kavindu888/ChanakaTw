@@ -4,7 +4,6 @@ import 'swiper/css';
 import 'swiper/css/navigation'; // Import navigation styles
 import 'swiper/css/pagination'; // Import pagination styles
 import { Link } from 'react-router-dom';
-import Axios from 'axios';
 
 
 
@@ -48,9 +47,9 @@ function TourOne() {
             className="swiper th-slider has-shadow slider-drag-wrap"
           >
             <SwiperSlide key="tour1">
-              <div className="tour-box th-ani gsap-cursor">
+                <div className="tour-box th-ani gsap-cursor">
                 <div className="tour-box_img global-img">
-                 <img src="/assets/images/packages/8.png" />
+                 <img src="/assets/images/packages/8.png" alt="Galle Tour Package" />
                 </div>
                 <div className="tour-content">
                   <h3 className="box-title">
