@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 function DestinationCardTwo(props) {
-    const { destinationID, destinationImage, destinationTitle, destinationPrice } = props;
+    const { destinationID, destinationImage, destinationTitle } = props;
     return (
         <div className="tour-box style-flex th-ani">
             <div className="tour-box_img global-img">

@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom';
 
 function DestinationCard(props) {
-    const { destinationID, destinationImage, destinationTitle, destinationPrice } = props;
+    const { destinationID, destinationImage, destinationTitle } = props;
     return (
         <>
             <div className="tour-box th-ani">

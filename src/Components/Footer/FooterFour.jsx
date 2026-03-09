@@ -6,13 +6,6 @@ function FooterFour() {
     const [isModalOpen, setIsModalOpen] = useState(false);
     const [modalImage, setModalImage] = useState('');
 
-    // Function to open the modal with the selected image
-    const openModal = (imageSrc, event) => {
-        event.preventDefault(); // Prevent default link behavior
-        setModalImage(imageSrc);
-        setIsModalOpen(true);
-    };
-
     // Function to close the modal
     const closeModal = () => {
         setIsModalOpen(false);
