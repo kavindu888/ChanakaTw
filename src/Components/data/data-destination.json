@@ -1,0 +1,371 @@
+[
+  {
+    "id": 1,
+    "image": "1.jpg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Negombo",
+    "price": "$620.00",
+    "summary": "Negombo is the perfect 'first hello' to Sri Lanka. This historic fishing town, influenced by Dutch and Portuguese colonial history, is famous for its massive lagoon and golden sands. Life here revolves around the water—starting early at the bustling 'Lellama' seafood market and ending with a quiet boat ride through the mangroves or the old Dutch canals.",
+    "highlights": [
+      "Negombo lagoon boat ride",
+      "Dutch Canal and old fort area",
+      "Fish Market (Lellama) visit",
+      "Sunset beach walk and seafood dinner"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "2.jpeg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Madu River",
+    "price": "$640.00",
+    "summary": "Located in Balapitiya, the Madu River is a complex coastal wetland ecosystem. A 'Safari' here isn’t about jeeps; it’s about gliding through narrow mangrove tunnels. You will visit small islands where families harvest cinnamon and stop at a floating pavilion for a natural fish pedicure in the river.",
+    "highlights": [
+      "Madu River Mangrove boat safari",
+      "Cinnamon island traditional harvesting",
+      "River fish therapy stop",
+      "Birdwatching in the wetlands"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "3.jpeg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Hikkaduwa",
+    "price": "$660.00",
+    "summary": "Hikkaduwa is the heartbeat of the southern coast. Known for its vibrant energy, it’s a place where the jungle meets a turquoise coral reef. By day, the water is filled with snorkelers watching giant sea turtles; by night, the beachfront comes alive with music and vibrant cafes along the coast.",
+    "highlights": [
+      "Coral reef snorkeling",
+      "Glass-bottom boat tour",
+      "Turtle Farm visit",
+      "Beachfront dining and nightlife"
+    ]
+  },
+  {
+    "id": 4,
+    "image": "4.jpeg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Galle",
+    "price": "$680.00",
+    "summary": "Walking through Galle is like stepping back in time. The UNESCO-listed Dutch Fort is a living community where narrow cobblestone streets are lined with boutique shops, galleries, and heritage villas. The salty sea breeze follows you as you walk along the massive heritage ramparts overlooking the Indian Ocean.",
+    "highlights": [
+      "Galle Fort walking tour",
+      "Iconic Lighthouse viewpoint",
+      "Galle City Tour",
+      "Stilt fishing observation"
+    ]
+  },
+  {
+    "id": 5,
+    "image": "53.jpg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Weligama",
+    "price": "$700.00",
+    "summary": "Weligama, meaning 'Sandy Village,' is a paradise for those who want to embrace the ocean. The crescent bay is perfect for beginner surfing due to its gentle, long-breaking waves. It remains one of the few places where you can still spot traditional stilt fishermen perched over the water.",
+    "highlights": [
+      "Surf lessons for beginners",
+      "Coconut Tree Hill visit",
+      "Traditional Stilt Fishing",
+      "Seafood by the bay"
+    ]
+  },
+  {
+    "id": 6,
+    "image": "62.jpg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Mirissa",
+    "price": "$720.00",
+    "summary": "Mirissa is a dreamy, palm-lined beach town that offers both adventure and deep relaxation. It is the premier spot in the country to head into deep waters to spot Blue Whales. On land, you can find 'Secret Beach' for a quiet swim or enjoy premium spa and wellness treatments by the coast.",
+    "highlights": [
+      "Whale watching cruise",
+      "Secret Beach stop",
+      "Relaxing & Spa sessions",
+      "Sunset Parrot Rock hike"
+    ]
+  },
+  {
+    "id": 7,
+    "image": "7.jpg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Hiriketiya / Dikwella",
+    "price": "$740.00",
+    "summary": "Hiriketiya and Dikwella offer a calm horseshoe bay experience with a 'boho-chic' vibe. Surrounded by thick jungle, the bay creates a natural amphitheater for surfers and swimmers. Nearby Dikwella offers expansive beaches perfect for evening walks and cliffside cafe hopping.",
+    "highlights": [
+      "Hiriketiya bay swimming and surfing",
+      "Dikwella beach evening walk",
+      "Cliffside cafe hopping",
+      "Beach Yoga and wellness"
+    ]
+  },
+  {
+    "id": 8,
+    "image": "8.webp",
+    "bannerImg": "destination-details.jpg",
+    "title": "Ella",
+    "price": "$760.00",
+    "summary": "Ella is the crown jewel of the hill country. Tucked away in the mountains, the air is crisp and smells of tea leaves. It is a hiker’s paradise, offering trails to the Nine Arches Bridge and Little Adam’s Peak. The scenic train journey through tea estates and past waterfalls is a bucket-list experience.",
+    "highlights": [
+      "Nine Arches Bridge viewpoint",
+      "Little Adam's Peak hike",
+      "Rawana Waterfall & Flying Rawana Zipline",
+      "Ella Train Journey",
+      "Tea Plantation & Factory visit"
+    ]
+  },
+  {
+    "id": 9,
+    "image": "9.jpg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Buduruwagala",
+    "price": "$780.00",
+    "summary": "Deep in the dry zone forest lies Buduruwagala, an ancient site dating back to the 10th century. The name means 'the rock of Buddhist Sculptures,' and here you will find seven massive figures carved into a high canyon wall. The atmosphere is silent, spiritual, and untouched by modern noise.",
+    "highlights": [
+      "Ancient Buddha carvings",
+      "Forest temple atmosphere",
+      "Cultural photography stop",
+      "Countryside scenery"
+    ]
+  },
+  {
+    "id": 10,
+    "image": "10.jpg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Yala Safari",
+    "price": "$820.00",
+    "summary": "Yala is where the wild things are. As the most famous national park in Sri Lanka, it combines a diverse landscape of forest, scrubs, and lagoons. It holds the world's highest density of Leopards, making your heart race as the jeep turns every corner. Nearby, explore the ancient Baduragala Temple ruins.",
+    "highlights": [
+      "Jeep safari in Yala (Leopard tracking)",
+      "Wild elephant and sloth bear spotting",
+      "Baduragala Temple visit",
+      "Birdwatching in coastal wetlands"
+    ]
+  },
+  {
+    "id": 11,
+    "image": "11.jpg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Udawalawe Safari",
+    "price": "$810.00",
+    "summary": "If you love Elephants, Udawalawe is your sanctuary. Renowned for reliable elephant sightings across open grassland landscapes, it feels like an African savannah in the heart of Asia. Visit the Elephant Transit Home to see baby elephants being cared for before being released back to the wild.",
+    "highlights": [
+      "Elephant-focused jeep safari",
+      "Udawalawe reservoir scenic views",
+      "Elephant Transit Home (feeding)",
+      "Diyalum Waterfall excursion"
+    ]
+  },
+  {
+    "id": 12,
+    "image": "12.jpg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Arugam Bay",
+    "price": "$730.00",
+    "summary": "On the east coast, Arugam Bay is a legendary surf point that blends world-class waves with a relaxed 'surf town' beach culture. Beyond the Main Point, you can explore the calm Pottuvil Lagoon by canoe to spot crocodiles and elephants in the reeds, or visit the remote Okanda Temple.",
+    "highlights": [
+      "Main Point Surfing",
+      "Pottuvil Lagoon boat ride",
+      "Beachfront sunset chill",
+      "Okanda Temple visit"
+    ]
+  },
+  {
+    "id": 13,
+    "image": "13.webp",
+    "bannerImg": "destination-details.jpg",
+    "title": "Kumana Safari",
+    "price": "$840.00",
+    "summary": "Kumana Safari is ideal for nature lovers seeking a quieter, more remote wilderness experience. Famous for its massive mangrove swamp 'Kumana Villu,' it serves as a critical nesting ground for thousands of migratory birds. It is a soulful escape far from the crowded jeep tracks of other parks.",
+    "highlights": [
+      "Kumana bird sanctuary (Pelicans/Storks)",
+      "Wetland wildlife drive",
+      "Remote jungle safari",
+      "Endangered turtle nesting sites"
+    ]
+  },
+  {
+    "id": 14,
+    "image": "14.jpg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Trinco",
+    "price": "$750.00",
+    "summary": "Trincomalee sits on one of the world's finest natural deep-water harbors. The vibe here is deeply rooted in Tamil culture. From the sacred Koneswaram Temple perched on a cliff to the white sands of Nilaveli and Pigeon Island, Trinco is where deep history meets turquoise seas.",
+    "highlights": [
+      "Nilaveli beach time",
+      "Pigeon Island snorkeling",
+      "Koneswaram Temple & Fort Frederick",
+      "Marble Beach relaxing"
+    ]
+  },
+  {
+    "id": 15,
+    "image": "15.jpg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Dambulla",
+    "price": "$770.00",
+    "summary": "Dambulla is a cultural hub known for its Royal Rock Temple—a UNESCO complex of five caves filled with over 150 Buddha statues and frescoes preserved for 2,000 years. The site also features the modern Golden Buddha and is the gateway to the island's agricultural heartland.",
+    "highlights": [
+      "Dambulla Cave Temple (UNESCO)",
+      "Golden Temple and Museum",
+      "Local Produce Market",
+      "Rose Quartz Mountain"
+    ]
+  },
+  {
+    "id": 16,
+    "image": "16.jpg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Sigiriya",
+    "price": "$860.00",
+    "summary": "Sigiriya, or 'The Lion Rock,' is Sri Lanka's most iconic sight. This 5th-century fortress in the sky was built by King Kassapa. You climb through massive Lion's Paws to reach the summit, passing ancient frescoes and water gardens. Nearby, Pidurangala Rock offers the best panoramic view of the fortress.",
+    "highlights": [
+      "Lion Rock climb",
+      "Ancient Water Gardens & Frescoes",
+      "Pidurangala sunrise hike",
+      "Sigiriya Village Tour"
+    ]
+  },
+  {
+    "id": 17,
+    "image": "171.jpg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Habarana Ayurvedic Spa",
+    "price": "$690.00",
+    "summary": "Habarana is the center for wellness and nature. After days of exploring ruins, this is where you come to heal. Using ancient Sri Lankan secrets of herbal oils and roots, the Ayurvedic spas here offer a full 'reset' for the body and mind in a serene, natural jungle setting.",
+    "highlights": [
+      "Traditional Oil Therapies",
+      "Herbal Steam & Spa sessions",
+      "Guided Yoga and Meditation",
+      "Nature walks by the lake"
+    ]
+  },
+  {
+    "id": 18,
+    "image": "181.jpg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Minneriya Safari",
+    "price": "$830.00",
+    "summary": "Minneriya is world-famous for 'The Gathering.' During the dry season, hundreds of wild elephants migrate to the shores of the ancient Minneriya tank. It is one of the most spectacular wildlife sights in the world to see baby elephants play in the late afternoon sun.",
+    "highlights": [
+      "Elephant Gathering observation",
+      "Late afternoon jeep safari",
+      "Dry-zone bird sightings",
+      "Ancient reservoir views"
+    ]
+  },
+  {
+    "id": 19,
+    "image": "19.jpg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Kaudulla Safari",
+    "price": "$830.00",
+    "summary": "Kaudulla is the neighboring park to Minneriya, providing rewarding wildlife drives around a massive ancient tank ecosystem. It is an excellent alternative for those wanting to see huge herds of elephants in a more rugged, less crowded setting with rich wetland birdlife.",
+    "highlights": [
+      "Jeep safari around Kaudulla tank",
+      "Elephant herd observation",
+      "Spotting wild boar and deer",
+      "Wetland birdwatching"
+    ]
+  },
+  {
+    "id": 20,
+    "image": "20.webp",
+    "bannerImg": "destination-details.jpg",
+    "title": "Matale",
+    "price": "$670.00",
+    "summary": "Matale is the spice heart of the island. The air here is fragrant with cinnamon, cardamom, and pepper. It is also home to the colorful Matale Aluvihara Cave Temple, where Buddhist scriptures were first written on palm leaves, and the stunning Mutthumari Amman Hindu temple.",
+    "highlights": [
+      "Spice garden tour & education",
+      "Aluvihara Cave Temple",
+      "Mutthumari Amman Kovil",
+      "Scenic hill-country drive"
+    ]
+  },
+  {
+    "id": 21,
+    "image": "21.jpg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Kandy",
+    "price": "$780.00",
+    "summary": "Kandy is the soul of Sri Lanka, nestled around a beautiful central lake. As the last capital of the ancient kings, it houses the Temple of the Sacred Tooth Relic. The city is a blend of sacred tradition, colonial architecture, and vibrant cultural performances like the Kandyan Dance.",
+    "highlights": [
+      "Temple of the Sacred Tooth Relic",
+      "Bahirawakanda (Big Buddha) Temple",
+      "Traditional Kandyan Dance Show",
+      "Kandy Viewpoint & Lake Walk"
+    ]
+  },
+  {
+    "id": 22,
+    "image": "22.jpg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Nuwara Eliya",
+    "price": "$790.00",
+    "summary": "Known as 'Little England,' Nuwara Eliya offers a cool escape from the tropical heat. The city is filled with Tudor-style buildings, rose gardens, and a carpet of tea bushes. Spend your days picking strawberries, having high tea at the Grand Hotel, or boating on the mist-covered Gregory Lake.",
+    "highlights": [
+      "Gregory Lake boating",
+      "Strawberry Farm visit",
+      "Tea factory & Plantation tour",
+      "High Tea at the Grand Hotel",
+      "Hakgala Botanical Garden",
+      "Post Office (Historic) visit",
+      "Horton Plains National Park"
+    ]
+  },
+  {
+    "id": 23,
+    "image": "23.jpg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Anuradhapura / Mihinthale",
+    "price": "$850.00",
+    "summary": "Anuradhapura was the first capital of Sri Lanka and remains a massive center of ancient power and sacred monuments. Nearby Mihinthale is considered the cradle of Buddhism in Sri Lanka. Climbing the rock steps at Mihinthale at sunset is a deeply spiritual and historic experience.",
+    "highlights": [
+      "Sacred city ruins & Stupas",
+      "Sri Maha Bodhi (Sacred Tree)",
+      "Mihinthale rock steps climb",
+      "Ancient reservoir engineering"
+    ]
+  },
+  {
+    "id": 24,
+    "image": "24.jpg",
+    "bannerImg": "destination-details.jpg",
+    "title": "Polonnaruwa",
+    "price": "$820.00",
+    "summary": "Polonnaruwa preserves a compact ancient kingdom with remarkably well-preserved stone carvings and royal ruins. It is perfect for exploring by bicycle. Here you will see the Gal Vihara—masterpiece Buddha statues carved out of granite—and the remains of King Parakramabahu’s palace.",
+    "highlights": [
+      "Ancient City cycling tour",
+      "Gal Vihara stone statues",
+      "Royal Palace remains",
+      "The Quadrangle complex"
+    ]
+  },
+  {
+    "id": 25,
+    "image": "25.webp",
+    "bannerImg": "destination-details.jpg",
+    "title": "Ratnapura",
+    "price": "$710.00",
+    "summary": "Ratnapura, the 'City of Gems,' has provided rubies and sapphires to the world for centuries. Beyond the traditional mud-pit gem mines, the city is a gateway to the Sinharaja Rainforest and is surrounded by lush tea plantations and dramatic waterfalls in the hidden valleys.",
+    "highlights": [
+      "Traditional Gem Mine & Pit visit",
+      "Gem Museum & Jewelry market",
+      "Tea Plantation walks",
+      "Saman Devalaya Temple",
+      "Waterfall excursions"
+    ]
+  },
+  {
+    "id": 26,
+    "image": "26.webp",
+    "bannerImg": "destination-details.jpg",
+    "title": "Colombo",
+    "price": "$760.00",
+    "summary": "Colombo is the island's energetic capital of contrasts. Modern skyscrapers like the Lotus Tower stand next to colonial clock towers and local bazaars. A walk along Galle Face Green at sunset, with local street food sizzling and kites flying, is the ultimate local Colombo experience.",
+    "highlights": [
+      "Galle Face Green sunset",
+      "Pettah Market walk",
+      "Lotus Tower skyline view",
+      "Gangaramaya Temple visit"
+    ]
+  }
+]
