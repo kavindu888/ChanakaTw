@@ -4,7 +4,7 @@ import Modal from '../Gallery/Modal';
 
 function FooterFour() {
     const [isModalOpen, setIsModalOpen] = useState(false);
-    const [modalImage, setModalImage] = useState('');
+    const [modalImage] = useState('');
 
     // Function to close the modal
     const closeModal = () => {
