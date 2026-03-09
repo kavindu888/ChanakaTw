@@ -18,7 +18,7 @@ function DestinationInner() {
         setCurrentPage(page);
     };
     return (
-        <section className="space">
+        <section className="space destination-inner-section">
             <div className="container">
                 <div className="th-sort-bar">
                     <div className="row justify-content-between align-items-center">
